@@ -31,3 +31,5 @@ django-simple-email-confirmation==0.70
 django-cors-headers==3.6.0
 flake8==3.8.4
 django-filter
+gunicorn==20.0.4
+psycopg2-binary==2.8.5
